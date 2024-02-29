@@ -1,0 +1,1364 @@
+repo_name: ankurkumarz/jenkins-core
+report_id: f8ac09598db37e7a95eec125e8e48323
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:01:11+00:00'
+requested_by: basil
+provider: github
+branch: master
+detected_tools_count: 108
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/package.json
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-28 13:45:09.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-07-09 16:10:56.000000000 Z
+- name: JFreeChart
+  description: A free Java chart library
+  website_url: http://www.jfree.org/jfreechart/
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/8591/Picture_6_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 4.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: Nicolas De Loof
+  last_updated_on: 2013-07-04 10:23:11.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/package.json
+  detection_source: war/package.json
+  last_updated_by: Nicolas De Loof
+  last_updated_on: 2013-07-04 10:23:11.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/package.json
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-01 14:49:05.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-08-29 20:09:14.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/LICENSE.txt
+  detection_source: LICENSE.txt
+  last_updated_by: kohsuke
+  last_updated_on: 2008-02-12 21:42:27.000000000 Z
+- name: Apache Maven
+  description: Apache build manager for Java projects.
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/.mvn/maven.config
+  detection_source: ".mvn/maven.config"
+  last_updated_by: Jesse Glick
+  last_updated_on: 2018-05-03 14:13:39.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/.babelrc
+  last_updated_by: Félix Queiruga
+  last_updated_on: 2019-12-05 09:34:13.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/package.json
+  detection_source: war/package.json
+  last_updated_by: Nicolas De Loof
+  last_updated_on: 2013-07-04 10:23:11.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/.github/workflows/changelog.yml
+  detection_source: ".github/workflows/changelog.yml"
+  last_updated_by: Alex
+  last_updated_on: 2022-09-28 13:45:57.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: kohsuke
+  last_updated_on: 2006-11-05 23:05:33.000000000 Z
+- name: Jenkins
+  description: An extendable open source continuous integration server
+  website_url: http://jenkins-ci.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/670/jenkins.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/test/pom.xml
+  detection_source: test/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-09-28 13:59:07.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: Tim Jacomb
+  last_updated_on: 2022-08-05 08:43:59.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: kohsuke
+  last_updated_on: 2009-04-27 05:17:45.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 14.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-28 13:44:43.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.74.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-01 14:49:05.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/yarn.lock
+  last_updated_by: Stefan Spieker
+  last_updated_on: 2022-07-21 06:37:01.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/package.json
+  detection_source: war/package.json
+  last_updated_by: Nicolas De Loof
+  last_updated_on: 2013-07-04 10:23:11.000000000 Z
+- name: CloudBees
+  description: Enterprise Jenkins and DevOps
+  website_url: http://www.cloudbees.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/136/o-p1F0I9_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/test/pom.xml
+  detection_source: test/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/changelog.html
+  detection_source: changelog.html
+  last_updated_by: Kohsuke Kawaguchi
+  last_updated_on: 2011-02-05 07:32:44.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/LICENSE.txt
+  detection_source: LICENSE.txt
+  last_updated_by: kohsuke
+  last_updated_on: 2008-02-12 21:42:27.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-07-21 00:42:24.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core
+  detection_source: Repo Metadata
+- name: xmlunit
+  website_url: https://www.xmlunit.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9143/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: antlr:antlr
+  description: Antlr v3 repository
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: args4j:args4j
+  description: Args4j
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: com.github.spotbugs:spotbugs-annotations
+  description: Annotations the SpotBugs tool supports
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-04-17 20:22:11.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-06-24 16:56:33.000000000 Z
+- name: com.google.inject:guice
+  description: Guice is a lightweight dependency injection framework for Java 6 and
+    above
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: com.jcraft:jzlib
+  description: JZlib is a re-implementation of zlib in pure Java
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-06-24 16:56:33.000000000 Z
+- name: com.thoughtworks.xstream:xstream
+  description: XStream is a serialization library from Java objects to XML and back
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-06-24 16:56:33.000000000 Z
+- name: commons-beanutils:commons-beanutils
+  description: Apache Commons BeanUtils provides an easy-to-use but flexible wrapper
+    around reflection and introspection
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-06-24 16:56:33.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: commons-collections:commons-collections
+  description: Types that extend and augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: commons-fileupload:commons-fileupload
+  description: The Apache Commons FileUpload component provides a simple yet flexible
+    means of adding support for multipart file upload functionality to servlets and
+    web applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-04-17 20:22:11.000000000 Z
+- name: commons-httpclient:commons-httpclient
+  description: The HttpClient component supports the client-side of RFC 1945
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: commons-jelly:commons-jelly-tags-xml
+  description: The Jelly XML Tag Library
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: commons-lang:commons-lang
+  description: Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: javax.servlet:javax.servlet-api
+  description: Java.net - The Source for Java Technology Collaboration
+  version: 3.1.0
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/websocket/spi/pom.xml
+  detection_source: websocket/spi/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: javax.servlet:servlet-api
+  license: CDDL-1.0,GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-06-24 16:56:33.000000000 Z
+- name: jaxen:jaxen
+  description: Jaxen is a universal XPath engine for Java
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: jline:jline
+  description: Jline 2.x
+  version: 2.14.6
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: net.i2p.crypto:eddsa
+  description: Implementation of EdDSA in Java
+  version: 0.3.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: net.java.dev.jna:jna
+  description: Java Native Access
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: net.jcip:jcip-annotations
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: net.sf.kxml:kxml2
+  description: KXML is a small XML pull parser, specially designed for constrained
+    environments such as Applets, Personal Java or MIDP devices
+  license: BSD-3-Clause,Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: org.apache.ant:ant
+  description: Master POM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.apache.commons:commons-compress
+  description: Apache Commons Compress software defines an API for working with compression
+    and archive formats
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.apache.sshd:sshd-core
+  version: 2.9.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-09-10 17:55:40.000000000 Z
+- name: org.awaitility:awaitility
+  description: A Java DSL for synchronizing asynchronous operations
+  version: 4.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/test/pom.xml
+  detection_source: test/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-07-22 14:47:55.000000000 Z
+- name: org.codehaus.groovy:groovy-all
+  description: 'Groovy: A powerful, dynamic language for the JVM'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.fusesource.jansi:jansi
+  description: Jansi is a java library for generating and interpreting ANSI escape
+    sequences
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.hamcrest:hamcrest
+  description: Core API and libraries of hamcrest matcher framework
+  version: '2.2'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.hamcrest:hamcrest-core
+  description: Core Hamcrest API - deprecated
+  version: '2.2'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/test/pom.xml
+  detection_source: test/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-07-22 14:47:55.000000000 Z
+- name: org.hamcrest:hamcrest-library
+  description: A library of Hamcrest matchers - deprecated
+  version: '2.2'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.jfree:jfreechart
+  description: JFreeChart is a class library, written in Java, for generating charts
+  license: LGPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.junit.jupiter:junit-jupiter
+  description: Module "junit-jupiter" of JUnit 5
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-04-17 20:22:11.000000000 Z
+- name: org.junit.vintage:junit-vintage-engine
+  description: Module "junit-vintage-engine" of JUnit 5
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.jvnet.localizer:localizer
+  description: Type-safe localization message access for Java
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-04-17 20:22:11.000000000 Z
+- name: org.kohsuke.metainf-services:metainf-services
+  description: Annotation-driven META-INF/services auto-generation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-08-02 18:26:04.000000000 Z
+- name: org.kohsuke.stapler:json-lib
+  description: Java library for transforming beans
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.kohsuke.stapler:stapler
+  description: Stapler HTTP request handling engine
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.mockito:mockito-inline
+  description: Mockito preconfigured inline mock maker
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.ow2.asm:asm
+  description: ASM
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.ow2.asm:asm-analysis
+  description: Static code analysis API of ASM
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.ow2.asm:asm-commons
+  description: Usefull class adapters based on ASM
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.ow2.asm:asm-tree
+  description: Tree API of ASM
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.ow2.asm:asm-util
+  description: Utilities for ASM
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.slf4j:jcl-over-slf4j
+  description: JCL 1.2 implemented over SLF4J
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.slf4j:log4j-over-slf4j
+  description: Log4j implemented over SLF4J
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.slf4j:slf4j-jdk14
+  description: SLF4J JDK14 Binding
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/cli/pom.xml
+  detection_source: cli/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-04-17 20:22:11.000000000 Z
+- name: org.springframework.security:spring-security-web
+  description: Spring-security-web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.xmlunit:xmlunit-core
+  description: XMLUnit for Java
+  version: 2.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: org.xmlunit:xmlunit-matchers
+  description: XMLUnit for Java Hamcrest Matchers
+  version: 2.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Jesse Glick
+  last_updated_on: 2022-07-07 15:23:47.000000000 Z
+- name: xpp3:xpp3
+  description: MXP1 is a stable XmlPull parsing engine that is based on ideas from
+    XPP and in particular XPP2 but completely revised and rewritten to take the best
+    advantage of latest JIT JVMs...
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Basil Crow
+  last_updated_on: 2022-03-12 18:06:05.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-30 15:08:31.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-30 15:08:31.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-30 15:08:31.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-30 15:08:31.000000000 Z
+- name: clean-webpack-plugin
+  description: A webpack plugin to remove/clean your build folder
+  package_url: https://www.npmjs.com/clean-webpack-plugin
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-01 14:49:05.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-01 14:49:05.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-28 13:44:43.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: Thorsten Scherler
+  last_updated_on: 2022-08-05 14:49:42.000000000 Z
+- name: handlebars-loader
+  description: Handlebars loader module for webpack
+  package_url: https://www.npmjs.com/handlebars-loader
+  version: 1.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18096/image.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: Thorsten Scherler
+  last_updated_on: 2022-08-05 14:49:42.000000000 Z
+- name: less-loader
+  description: A Less loader for webpack. Compiles Less to CSS
+  package_url: https://www.npmjs.com/less-loader
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: Tim Jacomb
+  last_updated_on: 2022-08-05 08:43:59.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-01 14:49:05.000000000 Z
+- name: postcss-less
+  description: LESS parser for PostCSS
+  package_url: https://www.npmjs.com/postcss-less
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17798/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-04 03:34:36.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-04 03:34:36.000000000 Z
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-07-21 00:42:24.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-28 13:44:43.000000000 Z
+- name: stylelint-config-standard
+  description: Standard shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-standard
+  version: 28.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16266/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-09-28 13:44:43.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins-core/blob/master/war/yarn.lock
+  detection_source: war/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-10-01 14:49:05.000000000 Z
